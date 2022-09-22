@@ -37,7 +37,7 @@ function App() {
           <p>{duties[0]}</p>
           <p>{duties[1]}</p>
           <p>{duties[2]}</p>
-          <button>More info</button>
+          <button>Show more</button>
         </div>
       </div>
       
